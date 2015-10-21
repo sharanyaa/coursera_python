@@ -1,4 +1,6 @@
 # implementation of Spaceship - program template for RiceRocks
+# PLEASE USE CHROME TO OPEN GAME
+# http://www.codeskulptor.org/#user40_BII1TAQihIP2C94_0.py
 import simplegui
 import math
 import random
